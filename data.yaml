@@ -1,0 +1,8 @@
+train: C:/Users/Yaso keerthi/OneDrive/Desktop/helmet detection/train/images
+val: C:/Users/Yaso keerthi/OneDrive/Desktop/helmet detection/val/images
+
+names:
+  0: helmet
+  1: no-helmet
+  2: rider
+  3: number plate
