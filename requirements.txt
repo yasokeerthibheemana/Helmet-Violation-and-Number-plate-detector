@@ -78,7 +78,6 @@ pyparsing==3.3.2
 pypdf==6.7.4
 pytesseract==0.3.13
 python-dateutil==2.9.0.post0
-python-version==3.11
 pytz==2025.2
 PyYAML==6.0.3
 referencing==0.37.0
