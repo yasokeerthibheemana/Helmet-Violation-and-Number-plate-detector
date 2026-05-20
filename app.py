@@ -469,3 +469,6 @@ with tab_camera:
 
 with tab_live:
     run_live_camera_tab()
+    st.caption("Real-time detection from your default webcam (may use more CPU).")
+
+    st.warning("Live webcam may not work on Streamlit Cloud servers.")
