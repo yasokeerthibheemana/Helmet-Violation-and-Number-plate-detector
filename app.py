@@ -34,7 +34,7 @@ st.set_page_config(
 inject_theme()
 
 # ── Configuration ─────────────────────────────────────────────────────────────
-YOLO_MODEL_PATH = "best.pt"
+YOLO_MODEL_PATH = "runs/detect/train2/weights/best.pt"
 CONF_THRESH = 0.35
 # Default device index; override in the Live webcam tab if you have multiple cameras.
 CAMERA_INDEX = 0
