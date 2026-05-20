@@ -455,9 +455,9 @@ def run_live_camera_tab():
         violation_badge(True)
 
 
-# ═════════════════════════════════════════════════════════════════════════════
+
 #  Input mode tabs
-# ═════════════════════════════════════════════════════════════════════════════
+
 section_card("Input Source", "📥")
 tab_upload, tab_camera, tab_live = st.tabs(["📁 Upload file", "📷 Camera photo", "🎥 Live webcam"])
 
